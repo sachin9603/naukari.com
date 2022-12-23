@@ -10,9 +10,9 @@ Clone of Naukri.com -Naukri app is the best job search app that caters to all yo
 
 # Technology Used
 
-• HTML
-• CSS
-• JAVASCRIPT
+• HTML</br>
+• CSS</br>
+• JAVASCRIPT</br>
 
 ## Landing Page
 
